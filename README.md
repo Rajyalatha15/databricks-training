@@ -17,11 +17,11 @@ week2
 - day3
 - day4
 - day5
+- day6
 
 ## Contents
 - Practice SQL Queries
 - Solution Files
-- Query Output Screenshots
 - Daily Task Documentation
 
 ## Tools Used
